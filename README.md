@@ -2,6 +2,11 @@ I love to watch movies. Some weekends I'll rip through four or more of them back
 
 Long before I even read Infinite Jest, I had this crazy dream that I'd study physics and write movies. My very first script was an inadvertent rip-off of Annie Hall; I hadn't even seen the movie, but I was a neurotic kid in middle and high school.
 
-I began to rate movies religiously, pouring over Netflix's library to see what I could plug in and what it would return as movies it thought I'd like.
+I began to rate movies religiously on Netflix to find my next new favorite.
 
-Well
+After a while I realized there were only so many movies in their library that I could watch. Rather than letting all that data go to waste, I'm going to make an app (or attempt to).
+
+**ROADMAP:** 
+* Template out a page
+* Get some stats on my ratings
+* Form validation and...oh god what am I getting into?!
